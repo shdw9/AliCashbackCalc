@@ -1,6 +1,6 @@
 # AliCashbackCalc
 
-AliCC is a simple calculator to calculate AliExpress dropshipping orders with Rakuten.
+AliCC is a **simple calculator** to calculate AliExpress dropshipping orders with Rakuten.
 
 This is a useful tool for curious dropshippers on wondering how much cashback you've earned for that day since Rakuten takes a while to load AliExpress orders.
 
